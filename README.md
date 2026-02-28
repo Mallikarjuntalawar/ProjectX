@@ -7,3 +7,7 @@ python manage.py runserver
 1.Main Page
 
 ![Main Page](https://github.com/Mallikarjuntalawar/ProjectX/blob/46f8eda64c78faa3ea2afa26bf74a9e5f64a8257/Screenshot%202026-02-27%20145010.png)
+
+2.Registration Page
+
+![Registration Page](https://github.com/Mallikarjuntalawar/ProjectX/blob/d7fe82f7d0ea4b81894b0e14156371d172a5da17/Screenshot%202026-02-27%20144834.png)
