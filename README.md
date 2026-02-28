@@ -15,3 +15,7 @@ python manage.py runserver
 3.Login Page
 
 ![Login Page](https://github.com/Mallikarjuntalawar/ProjectX/blob/main/Screenshot%202026-02-27%20144804.png?raw=true)
+
+4.Dashboard
+
+![Dashboard](https://github.com/Mallikarjuntalawar/ProjectX/blob/main/Screenshot%202026-02-28%20112154.png?raw=true)
