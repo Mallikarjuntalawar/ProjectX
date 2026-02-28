@@ -27,3 +27,7 @@ python manage.py runserver
 6.View Client
 
 ![View Client](https://github.com/Mallikarjuntalawar/ProjectX/blob/main/Screenshot%202026-02-27%20144646.png?raw=true)
+
+7.Update Client
+
+![Update Client](https://github.com/Mallikarjuntalawar/ProjectX/blob/main/Screenshot%202026-02-28%20113126.png?raw=true)
