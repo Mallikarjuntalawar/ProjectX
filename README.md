@@ -6,4 +6,4 @@ python manage.py runserver
 # 📸Screenshots
 1.Main Page
 
-![Homepage](screenshots/homepage.png)
+![Main Page](https://github.com/Mallikarjuntalawar/ProjectX/blob/46f8eda64c78faa3ea2afa26bf74a9e5f64a8257/Screenshot%202026-02-27%20145010.png)
