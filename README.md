@@ -19,3 +19,7 @@ python manage.py runserver
 4.Dashboard
 
 ![Dashboard](https://github.com/Mallikarjuntalawar/ProjectX/blob/main/Screenshot%202026-02-28%20112154.png?raw=true)
+
+5.Creation of Client
+
+![Client](https://github.com/Mallikarjuntalawar/ProjectX/blob/main/Screenshot%202026-02-27%20144729.png?raw=true)
